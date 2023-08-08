@@ -6,6 +6,7 @@ ingredients:
  - salt 
  - lime
  - tomatoes
+ - garlic
 
 instructions:
 1 
