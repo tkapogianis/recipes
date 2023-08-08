@@ -6,6 +6,7 @@ ingredients:
  - salt 
  - lime
  - tomatoes
+ - jalapeno
 
 instructions:
 1 
